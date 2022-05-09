@@ -1,0 +1,19 @@
+{
+  "name": "nodejs3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinawutao1979/nodejs3.git"
+  },
+  "author": "tao wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinawutao1979/nodejs3/issues"
+  },
+  "homepage": "https://github.com/chinawutao1979/nodejs3#readme"
+}
